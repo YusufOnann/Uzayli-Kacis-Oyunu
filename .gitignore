@@ -1,0 +1,10 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# Veri ve Skor dosyaları
+scores.txt
+kelimeler.txt
+
+# Deneme ve Test dosyaları
+deneme.py
