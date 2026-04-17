@@ -1,0 +1,44 @@
+# easy
+cyborg
+nebula
+overload
+gravity
+reactor
+mutation
+clone
+portal
+uplink
+shutlle
+galaxy
+
+# hard
+warp drive
+colonial fleet
+resurrection ship
+prime directive
+star gate
+monolith signal
+spice melange
+crysknife blade
+
+# medium
+rocket launch
+space mission
+alien signal
+solar panel
+galactic core
+quantum drive
+wormhole jump
+plasma shield
+gravity beam
+cosmic dust
+lunar module
+asteroid field
+neural interface
+dark matter
+time warp
+stellar wind
+photon cannon
+hyperspace gate
+celestial map
+orbital station
