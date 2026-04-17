@@ -1,7 +1,4 @@
-# Python geçici dosyaları
-__pycache__/
-*.py[cod]
-
 # Veri ve Skor dosyaları
 scores.txt
-kelimeler.txtsifre_tahmin_hatice_araz.docx
+kelimeler.txt
+sifre_tahmin_hatice_araz.docx
